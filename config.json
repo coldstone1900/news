@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.0",
+    "message": "优化了栏目，修复了一些问题，优化了阅读体验"
+  },
+  "excludes_items": [
+    "喷嚏优选",
+    "【喷嚏图卦"
+  ],
+  "bczexcludes": [
+    "铂程斋",
+    "热门视频",
+    "长阅读",
+    "本周热读",
+    "铂程斋书评",
+    "浮世绘",
+    "浮世汇",
+    "本月热读",
+    "世界观",
+    "财经风云",
+    "乐影"
+  ],
+  "tuguapexcludetexts": [
+    "海外访问，请加",
+    "友情提示：请各位河蟹评论。道理你懂的",
+    "喷嚏新浪围脖：",
+    "无需App在移动设备上看喷嚏",
+    "https://item.taobao.com/item.htm",
+    "广告",
+    "喷嚏优选"
+  ],
+  "tuguaaexcludetexts": [
+    "115钻石VIP",
+    "115钻石VIP（1年价格=3年",
+    "爱奇艺半价年卡",
+    "https://item.taobao.com/item.htm"
+  ],
+  "tuguapexcludetexts_special": [
+    ">广告</span>"
+  ],
+  "drawer": {
+    "txt": "须知参差多态，乃是幸福本源",
+    "bg": "https://wx1.sinaimg.cn/mw690/6ffa5773ly1gnkqri9sq4j20u011i79t.jpg"
+  },
+  "youtube": "https://m.weibo.cn/api/container/getIndex?type=uid&value=2214257545",
+  "youtubechannels": [
+  ],
+  "bilibili_pic_suffix": "@702w_394h.jpg",
+  "months": {
+    "Jan": "01",
+    "Feb": "02",
+    "Mar": "03",
+    "Apr": "04",
+    "May": "05",
+    "Jun": "06",
+    "Jul": "07",
+    "Aug": "08",
+    "Sep": "09",
+    "Oct": "10",
+    "Nov": "11",
+    "Dec": "12"
+  }
+}
